@@ -1,0 +1,33 @@
+html {
+	font-family: Helvetica;
+}
+
+header {
+	font-size: 96px;
+	color: rgba(0,0,0,0.2);
+	text-align: center;
+	background-color: #fff;
+	margin-bottom: 20px;
+}
+
+.container {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+footer {
+	text-align: center;
+	width: 100%;
+	position: fixed;
+	bottom:0;
+	max-width: 960px;
+	margin: 0 auto;
+	padding-bottom: 10px;
+}
+
+
+#placeholder {
+	font-style: italic;
+	font-size: 1.5rem;
+	text-align: center;
+}
